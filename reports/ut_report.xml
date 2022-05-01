@@ -1,7 +1,9 @@
 <testExecutions version="1">
+  <file path="src/app/cafes/cafe-list/cafe-list.component.spec.ts">
+    <testCase name="CafeListComponent Debe tener una tabla con encabezado (1 fila) y cuerpo con 3 filas" duration="40"/>
+    <testCase name="CafeListComponent Debe crear el componente" duration="5"/>
+  </file>
   <file path="src/app/app.component.spec.ts">
-    <testCase name="AppComponent should have as title 'base-project'" duration="118"/>
-    <testCase name="AppComponent should create the app" duration="14"/>
-    <testCase name="AppComponent should render title" duration="13"/>
+    <testCase name="AppComponent should create the app" duration="5"/>
   </file>
 </testExecutions>
